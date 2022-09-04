@@ -6,7 +6,7 @@ Also, before you begin, consider using the enclosed `Makefile`. It’s currently
 ## 1. Names and Places
 The goal in this exercise is to develop a program that will print out a list of student names together with other information for each. The _tab character_ (an escape sequence) is helpful in getting the list to line up nicely. A program with only two names is in the file `Names.java`.
 
-1. Save `Names.java` to a local directory. Compile and run it to see how it works.
+1. Copy `Names.java` to a local directory. Compile and run it to see how it works.
 2. Modify the program so that your name and hometown and the name and hometown of at least two classmates sitting near
 you in lab also are printed. Save, compile, and run the program. Make sure the columns line up.
 3. Modify the program to add a third column with the intended major of each person (assume Sally’s major is Computer
