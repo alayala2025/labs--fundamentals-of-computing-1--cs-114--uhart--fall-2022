@@ -42,3 +42,12 @@ The requirements for the program are as follows:
 Carefully study `Error2.java` and then find and correct all of its syntax errors. Compile and run the final program.
 
 ---
+
+## 4. Painting a Room
+File `Paint.java` contains a partial program, which, when complete, will calculate the amount of paint needed to paint the walls of a room of the given length and width. It assumes that the paint covers 350 square feet per gallon.
+
+1. Save `Paint.java` to a local directory. Compile and run it to see that it works.
+2. Fill in the missing statements (the comments tell you where to fill in) so that the program does what it is supposed to. Compile and run the program and correct any errors.
+3. Suppose the room has doors and windows that don't need painting. Ask the user to enter the number of doors and number of windows in the room, and adjust the total square feet to be painted accordingly. Assume that each door is 20 square feet and each window is 15 square feet.
+
+---
