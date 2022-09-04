@@ -1,4 +1,8 @@
 # Lab 1, CS 114, Fundamentals of Computing I
+Remember **not** to work in this repository. Copy any files you need from this repo into another folder, then work from there.
+
+Also, before you begin, consider using the enclosed `Makefile`. It’s currently configured to work with the first program for this lab, but feel free to modify it to work with the others.
+
 ## 1. Names and Places
 The goal in this exercise is to develop a program that will print out a list of student names together with other information for each. The _tab character_ (an escape sequence) is helpful in getting the list to line up nicely. A program with only two names is in the file `Names.java`.
 
