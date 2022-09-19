@@ -10,10 +10,10 @@ public class Names {
     // --------------------------
     public static void main (String[] args) {
         System.out.println ();
-        System.out.println (" \tName\t\tHometown") ;
-        System.out.println ("\t====\t\t========");
-        System.out.println ("\tSally\t\tRoanoke");
-        System.out.println ("\tAlexander\tWashington");
+        System.out.println (" \tNicole\t\tMIami\t\tRobotics Engineering") ;
+        System.out.println ("\tEsteban\t\tBarrio la hoya\t\tBiomediacl Engineering");
+        System.out.println ("\tSally\t\tRoanoke\t\tNursing");
+        System.out.println ("\tAlexander\tWashington\t\tComputer Science");
         System.out.println ();
     }
 }
